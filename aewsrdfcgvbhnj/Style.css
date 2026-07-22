@@ -90,13 +90,3 @@ h1, h2, h3, .logo{
     cursor: pointer;
     font-size: 16px;
 }
-
-.gambar {
-    width: 10%;
-    height: 10%;
-    
-    border-radius: 8px;
-    margin-bottom: 20px;
-    align-items: center;
-    justify-content: center;
-}
